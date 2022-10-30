@@ -1,0 +1,24 @@
+.carobg{
+    background-color: hsla(214, 35%, 40%, 0.4);
+}
+
+a:hover{
+    text-decoration: none;
+}
+
+
+.btnc {
+    border-color: #3498db;
+    color: #fff;
+    box-shadow: 0 0 40px 40px #3498db inset, 0 0 0 0 #3498db;
+    -webkit-transition: all 150ms ease-in-out;
+    transition: all 150ms ease-in-out;
+  }
+  .btnc:hover {
+    box-shadow: 0 0 10px 0 #3498db inset, 0 0 10px 4px #3498db;
+  }
+@media(max-width:707px){
+    .imgshift{
+        margin-left: 80px;
+    }
+}

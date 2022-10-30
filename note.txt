@@ -1,0 +1,8 @@
+Single web page
+menu
+slider 
+about 
+gallery 
+blog 
+contact 
+footer 
