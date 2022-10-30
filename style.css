@@ -21,4 +21,11 @@ a:hover{
     .imgshift{
         margin-left: 80px;
     }
+    .shift{
+        margin-left: 250px;
+        margin-top: 8px;
+    }
+    .imgsize{
+        height: 300px !important;
+    }
 }
