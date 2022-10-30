@@ -28,4 +28,8 @@ a:hover{
     .imgsize{
         height: 300px !important;
     }
+    
+    .space_h{
+        margin-top: 50px;
+    }
 }
